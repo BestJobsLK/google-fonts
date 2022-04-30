@@ -1,0 +1,10 @@
+
+body { background: #f7f7f7; font-family: sans-serif; }
+
+main { width: 600px; margin: 40px auto; background: #fff; padding: 20px; }
+
+h1 { font-family: 'Bitter', serif; }
+
+h2 { font-family: 'Lobster', cursive; font-size: 30px; }
+
+p { line-height: 140%; color: #444; font-family: 'Open Sans', sans-serif; }
